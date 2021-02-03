@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-storage/#history
 
+### [1.35.2](https://www.github.com/googleapis/python-storage/compare/v1.35.1...v1.35.2) (2021-02-03)
+
+
+### Bug Fixes
+
+* pass the unused parameter ([#349](https://www.github.com/googleapis/python-storage/issues/349)) ([5c60d24](https://www.github.com/googleapis/python-storage/commit/5c60d240aa98d2a1dcc6933d6da2ce60ea1b7559))
+
 ### [1.35.1](https://www.github.com/googleapis/python-storage/compare/v1.35.0...v1.35.1) (2021-01-28)
 
 
